@@ -7,8 +7,8 @@
 
 
 
-- 🔭 I’m currently working on the [android client app](https://github.com/openMF/android-client) of [The Mifos Initiative](https://mifos.org/).
-- I'm a Astrophile who loves to explore space thorugh computers :rocket:.
+- 🔭 I’m currently working on the [android client app](https://github.com/openMF/android-client) by [The Mifos Initiative](https://mifos.org/).
+- An Astrophile who loves to explore space thorugh computers :rocket:.
 - An Android Developer eager to build something innovative:hammer_and_wrench:.
 - Open Source Enthusiast.
 - 📫 How to reach me: I live on the internet [@robustTechie](https://www.google.co.in/search?q=robustTechie).
