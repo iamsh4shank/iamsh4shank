@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/robustTechie"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
 
-<p align="center"> <img src="https://octodex.github.com/images/hubot.jpg" height="160px" width="160px"> <img src="https://octodex.github.com/images/octocat-de-los-muertos.jpg" height="160px" width="160px"> <img src="https://octodex.github.com/images/inspectocat.jpg" height="160px" width="160px"></p>
+<p align="center"> <img src="https://octodex.github.com/images/hubot.jpg" height="170px" width="170px"> <img src="https://octodex.github.com/images/octocat-de-los-muertos.jpg" height="170px" width="170px"> <img src="https://octodex.github.com/images/inspectocat.jpg" height="170px" width="170px"></p>
 
 ### Hi there, I'm Shashank 👋
 
