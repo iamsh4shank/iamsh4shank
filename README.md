@@ -18,7 +18,8 @@
 - 📫 How to reach me: I live on the internet [@robustTechie](https://www.google.co.in/search?q=robustTechie).
 - Check out me [CV](https://robusttechie.github.io/docs/cv.pdf)
 
-![Shashank's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=robustTechie&show_icons=true&hide_border=false&title_color=d23354&icon_color=0078e7&text_color=9f9f9f&bg_color=151515)
+<p align="center"><a href="https://github.com/robustTechie"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=robustTechie&show_icons=true&hide_border=false&title_color=d23354&icon_color=0078e7&text_color=9f9f9f&bg_color=151515" alt="Animated footer bars" /></a></p>
+
 
 <p align="center"><a href="https://github.com/robustTechie"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
 <!--
