@@ -9,8 +9,6 @@
 [![website badge](https://img.shields.io/badge/website-robustTechie.github.io-1f425f?style=flat-square)](https://robusttechie.github.io/)
 
 
-
-
 - 🔭 I’m currently working on the [android client app](https://github.com/openMF/android-client) by [The Mifos Initiative](https://mifos.org/).
 - An Astrophile who loves to explore space thorugh computers :rocket:.
 - An Android Developer eager to build something innovative:hammer_and_wrench:.
