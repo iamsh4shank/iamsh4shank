@@ -8,9 +8,10 @@
 
 
 <p align="center">
-<img src="https://img.shields.io/badge/twitter-@robustTechie-1da1f2?style=flat-square&logo=twitter">
-<img src="https://img.shields.io/badge/linkedin-robustTechie-0077b5?style=flat-square&logo=linkedin">
-<img src="https://img.shields.io/badge/website-robustTechie.github.io-1f425f?style=flat-square">  
+	
+<a href="https://twitter.com/robustTechie"> <img src="https://img.shields.io/badge/twitter-@robustTechie-1da1f2?style=flat-square&logo=twitter">
+<a href="https://www.linkedin.com/in/robusttechie/"> <img src="https://img.shields.io/badge/linkedin-robustTechie-0077b5?style=flat-square&logo=linkedin">
+<a href="https://robusttechie.github.io/"> <img src="https://img.shields.io/badge/website-robustTechie.github.io-1f425f?style=flat-square">  
 </p>
 
 <p align="center">
