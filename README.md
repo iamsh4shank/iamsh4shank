@@ -23,7 +23,7 @@
 </p>
 
 <p align="center"><a href="https://github.com/robustTechie"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=robustTechie&show_icons=true&hide_border=false&title_color=d23354&icon_color=0078e7&text_color=9f9f9f&bg_color=151515" alt="Animated footer bars" /></a></p>
-
+ 
 
 <p align="center"><a href="https://github.com/robustTechie"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
 <!--
