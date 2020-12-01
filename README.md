@@ -20,7 +20,7 @@
 	<a>🔭 I’m currently working on the <a href = "https://github.com/openMF/android-client">android client app </a> by <a href = "https://mifos.org/">The Mifos Initiative</a> 🔭  <br>
 	<a> :rocket: An Astrophile who loves to explore space thorugh computers :rocket:.</a> <br>
 	<a> :hammer_and_wrench: An Android Developer eager to build something innovative:hammer_and_wrench:.</a> <br>
-	<a> 📫 How to reach me: I live on the internet <a href = "https://www.google.co.in/search?q=robustTechie"> @robustTechie</a> or you can ping me on <a href = "https://t.me/robustTechiee"> Telegram.</a> 📫 <br>
+	<a> 📫 How to reach me: I live on the internet <a href = "https://www.google.co.in/search?q=robustTechie"> @robustTechie</a> or you can ping me on <a href = "https://t.me/robustTechie"> Telegram.</a> 📫 <br>
   <a> Open Source Enthusiast.</a> <br>
   <a> Check out me <a href = "https://robusttechie.github.io/docs/cv.pdf">CV</a>
 </p>
