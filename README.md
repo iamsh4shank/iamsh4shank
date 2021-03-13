@@ -10,7 +10,7 @@
 </p>
 
 
-* 🔭 I’m have worked as a GSoC student with <a href = "https://mifos.org/">The Mifos Initiative</a>
+* 🔭 I have worked as a GSoC student with <a href = "https://mifos.org/">The Mifos Initiative</a>
 * :rocket: I'm currently learning Astronomy, Deep Learning, ROS, and how startup works.
 * :speech_balloon: Ask me about Open-Source, Android, Python, or Machine Learning.
 * :thinking: I'm looking for help in Astronomy and Deep Learning.
