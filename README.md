@@ -20,7 +20,7 @@
 
 
 
-<p align="center"><a href="https://github.com/robustTechie"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=robustTechie&show_icons=true&hide_border=false&title_color=d23354&icon_color=0078e7&text_color=9f9f9f&bg_color=151515" alt="Animated footer bars" /></a></p>
+<p align="center"><a href="https://github.com/robustTechie"><img src="https://github-readme-stats.vercel.app/api?username=robustTechie&theme=vision-friendly-dark&show_icons=true&hide_border=true" alt="Animated footer bars" /></a></p>
  
 <!--
 **robustTechie/robustTechie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
