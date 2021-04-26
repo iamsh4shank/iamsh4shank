@@ -15,7 +15,7 @@
 * :rocket: I'm currently learning Astronomy, Deep Learning, ROS, and how startup works.
 * :speech_balloon: Ask me about Open-Source, Android, Python, or Machine Learning.
 * :thinking: I'm looking for help in Astronomy and Deep Learning.
-* 📫 How to reach me: I live on the internet <a href = "https://www.google.co.in/search?q=robustTechie"> @robustTechie</a> or you can ping me on <a href = "https://t.me/robustTechie"> Telegram.</a>
+* 📫 How to reach me: Send an email to me at [shashank@amfoss.in](mailto:shashank@amfoss.in) or ping me on <a href = "https://t.me/robustTechie"> Telegram.</a>
 * :page_with_curl: Check out me <a href = "https://robusttechie.github.io/docs/cv.pdf">CV</a>
 * :smile: Pronouns: He/Him/His </a>
 
