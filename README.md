@@ -9,6 +9,7 @@
 <a href="https://robusttechie.github.io/"><img src="https://img.shields.io/badge/website-robustTechie.github.io-1f425f?style=flat-square">  </a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=robustTechie)
 
 * 🔭 I have worked as a GSoC student with <a href = "https://mifos.org/">The Mifos Initiative</a>
 * :rocket: I'm currently learning Astronomy, Deep Learning, ROS, and how startup works.
