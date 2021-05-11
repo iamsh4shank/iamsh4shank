@@ -4,9 +4,9 @@
 
 
 <p>
-<a href="https://twitter.com/iamsh4shank"><img src="https://img.shields.io/badge/twitter-@robustTechie-1da1f2?style=flat-square&logo=twitter">  </a>
-<a href="https://www.linkedin.com/in/iamsh4shank/"><img src="https://img.shields.io/badge/linkedin-robustTechie-0077b5?style=flat-square&logo=linkedin">  </a>
-<a href="https://iamsh4shank.github.io/"><img src="https://img.shields.io/badge/website-robustTechie.github.io-1f425f?style=flat-square">  </a>
+<a href="https://twitter.com/iamsh4shank"><img src="https://img.shields.io/badge/twitter-@iamsh4shank-1da1f2?style=flat-square&logo=twitter">  </a>
+<a href="https://www.linkedin.com/in/iamsh4shank/"><img src="https://img.shields.io/badge/linkedin-iamsh4shank-0077b5?style=flat-square&logo=linkedin">  </a>
+<a href="https://iamsh4shank.github.io/"><img src="https://img.shields.io/badge/website-iamsh4shank.github.io-1f425f?style=flat-square">  </a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=iamsh4shank)
