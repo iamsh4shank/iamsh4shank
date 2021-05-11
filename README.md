@@ -16,7 +16,7 @@
 * :speech_balloon: Ask me about Open-Source, Android, Python, or Machine Learning.
 * :thinking: I'm looking for help in Astronomy and Deep Learning.
 * 📫 How to reach me: Send an email to me at [shashank@amfoss.in](mailto:shashank@amfoss.in) or ping me on <a href = "https://t.me/iamsh4shank"> Telegram.</a>
-* :page_with_curl: Check out me <a href = "https://robusttechie.github.io/docs/cv.pdf">CV</a>
+* :page_with_curl: Check out me <a href = "https://iamsh4shank.github.io/docs/cv.pdf">CV</a>
 * :smile: Pronouns: He/Him/His </a>
 
 
