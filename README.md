@@ -12,7 +12,7 @@
 ![](https://komarev.com/ghpvc/?username=iamsh4shank)
 
 * 🔭 I have worked as a GSoC student with <a href = "https://mifos.org/">The Mifos Initiative</a>
-* :rocket: I'm currently exploring Robotic Vision, Visual Recognition, Deep Learning, and how both could be combined.
+* :rocket: I'm currently exploring Robotic Vision, Visual Recognition, and Deep Learning.
 * :speech_balloon: Ask me about Open-Source, Android, Python, or Machine Learning.
 * :thinking: I'm looking for opportunities in Robotic Vision and Deep Learning.
 * 📫 How to reach me: Send an email to me at [shashank@amfoss.in](mailto:shashank@amfoss.in) or ping me on <a href = "https://t.me/iamsh4shank"> Telegram.</a>
