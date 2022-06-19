@@ -1,5 +1,5 @@
 <p >
-	<a> <strong> Hi there, I'm Shashank <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> </strong></a>
+	<a> <strong> Hi there, I'm Shashank <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px" height="25px"> </strong></a>
 </p>
 
 
