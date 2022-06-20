@@ -11,14 +11,12 @@
 
 ![](https://komarev.com/ghpvc/?username=iamsh4shank)
 
-* 🔭 I have worked as a GSoC student with <a href = "https://mifos.org/">The Mifos Initiative</a>
-* :rocket: I'm currently exploring Robotic Vision, Visual Recognition, and Deep Learning.
-* :speech_balloon: Ask me about Open-Source, Android, Python, or Machine Learning.
-* :thinking: I'm looking for opportunities in Robotic Vision and Deep Learning.
+* :rocket: I'm currently exploring security in AI, Visual Recognition, and Deep Learning.
+* 🔭 Contributing to OSS Projects such as - <a href = "https://github.com/openMF/android-client">Android Client</a>, <a href = "https://github.com/Technical-Hackers/Health-Log">Health Log</a>, and a few projects at the <a href = "https://github.com/Technical-Hackers/Health-Log">amFOSS GitLab</a> 
+* :man_technologist: I'm figuring out how to put ML in an end to end deployed tool.
+* :speech_balloon: Ask me about open source, computer vision, deep learning, android development, and how communities works.
 * 📫 How to reach me: Send an email to me at [shashank@amfoss.in](mailto:shashank@amfoss.in) or ping me on <a href = "https://t.me/iamsh4shank"> Telegram.</a>
-* :page_with_curl: Check out my <a href = "https://iamsh4shank.github.io/docs/cv.pdf">CV</a>
 * :smile: Pronouns: He/Him/His </a>
-
 
 
 <p align="center"><a href="https://github.com/iamsh4shank"><img src="https://github-readme-stats.vercel.app/api?username=iamsh4shank&theme=vision-friendly-dark&show_icons=true&hide_border=true" alt="Animated footer bars" /></a></p>
