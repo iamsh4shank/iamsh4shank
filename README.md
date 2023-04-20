@@ -19,7 +19,7 @@
 * :smile: Pronouns: He/Him/His </a>
 
 
-<p align="center"><a href="https://github.com/iamsh4shank"><img src="https://github-readme-stats.vercel.app/api?username=iamsh4shank&theme=vision-friendly-dark&show_icons=true&hide_border=true" alt="Animated footer bars" /></a></p>
+<p align="center"><a href="https://github.com/iamsh4shank"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamsh4shank&theme=vision-friendly-dark&show_icons=true&hide_border=true" alt="Animated footer bars" /></a></p>
  
 <!--
 **robustTechie/robustTechie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
