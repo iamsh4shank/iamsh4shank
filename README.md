@@ -11,10 +11,10 @@
 
 ![](https://komarev.com/ghpvc/?username=iamsh4shank)
 
-* :rocket: I'm currently exploring security in AI, Visual Recognition, and Deep Learning.
+* :rocket: I'm currently exploring security in AI, Robustness of Vision models, and Deep Learning in general.
 * 🔭 Contributing to OSS Projects such as - <a href = "https://github.com/openMF/android-client">Android Client</a>, <a href = "https://github.com/Technical-Hackers/Health-Log">Health Log</a>, and a few projects at the <a href = "https://github.com/Technical-Hackers/Health-Log">amFOSS GitLab</a> 
-* :man_technologist: I'm figuring out how to put ML in an end to end deployed tool.
-* :speech_balloon: Ask me about open source, computer vision, deep learning, android development, and how communities works.
+* :man_technologist: I'm figuring out how to put ML in an end-to-end deployed tool.
+* :speech_balloon: Ask me about open source, computer vision, deep learning, android development, and how communities work.
 * 📫 How to reach me: Send an email to me at [spriyada@mpi-inf.mpg.de](mailto:spriyada@mpi-inf.mpg.de) or ping me on <a href = "https://t.me/iamsh4shank"> Telegram.</a>
 * :smile: Pronouns: He/Him/His </a>
 
